@@ -15,7 +15,7 @@ First time (do this only the first time).
 
 This will create a folder called ipc144-s13 in your current directory.  Go into that and into the correct folder for your section for code updates
 
-All other times:
+All other times (to update after class):
 ----------------
 
 * Log onto matrix.
