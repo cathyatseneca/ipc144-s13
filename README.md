@@ -1,10 +1,9 @@
 ipc144-s13
 ==========
 
-This is repo contains class examples for students taking IPC144 in Summer 2013 at Seneca College.
+This is repo contains class examples for students taking IPC144 in Summer 2013 at Seneca College.  You can view the examples in the browser, but you can also have a copy of it on your matrix account which will allow you to modify and play with the code.
 
-
-You can get the code contained here by doing the following:
+To get the code contained here on your matrix account:
 
 First time (do this only the first time).  
 ----------------------------------------
