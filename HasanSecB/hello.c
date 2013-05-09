@@ -1,3 +1,5 @@
+/*author: catherine leung*/
+/*adding more*/
 #include <stdio.h>
 int main(void){
   printf("hello world!\n");
