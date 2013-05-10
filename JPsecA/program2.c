@@ -20,6 +20,7 @@ starts in main.  */
 int main(void){
   /*printf is a function that accepts a string  (defined by the 
     "'s).  the \n's are newlines */
-  printf("Hello World!\nThis is Cathy\n");
+  printf("Hello World!\n");
+  printf("This is Cathy\n");
   return 0;
 }
