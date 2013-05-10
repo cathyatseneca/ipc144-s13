@@ -10,7 +10,7 @@ First time (do this only the first time).
 
 * Log onto matrix.
 * Go to the directory where you would like your code examples for this class to go (if you want it at top level, skip this step)
-* type: git clone git@github.com:cathyatseneca/ipc144-s13.git
+* type: git clone git://github.com/cathyatseneca/ipc144-s13.git
 
 This will create a folder called ipc144-s13 in your current directory.  Go into that and into the correct folder for your section for code updates
 
