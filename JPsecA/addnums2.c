@@ -7,7 +7,6 @@ int main(void){
 
     int number;
     int secondNumber;
-    int sum;
 
     /*ask user to enter a number*/
     printf("Please enter a number: ");
@@ -19,11 +18,7 @@ int main(void){
     /*read the other number*/
     scanf("%d",&secondNumber);
 
-   /*find the sum
-     sum is assigned the value (number+SecondNumber)*/
-   sum = number+secondNumber; 
-
    /*print out the sum*/
-   printf("The sum of %d and %d is %d\n",number,secondNumber,sum);
-  return 0;
+   printf("The sum of %d and %d is %d\n",number,secondNumber,number+secondNumber);
+   return 0;
 }
