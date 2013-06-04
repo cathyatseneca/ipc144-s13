@@ -23,13 +23,8 @@ int main(void){
      printf("please enter a value (1 to 70): ");
      scanf("%d",&input);
    }   
-   /*initialize counter*/
-   numPrinted=0;
-   while(numPrinted < input){
-     /*print 1 star*/
+   for(numPrinted=0;numPrinted < input;numPrinted++){
      printf("*");
-     /*increment counter*/
-     numPrinted++;
    }
    printf("\n");
   return 0;
