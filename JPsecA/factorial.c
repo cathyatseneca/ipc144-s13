@@ -43,3 +43,11 @@ int factorial(int number){
   return result;
 }
 
+int factorial(int number){
+   int result = 1;
+   if(number > 0){
+     result = number * factorial (number -1);
+   }
+   return result;
+}
+
