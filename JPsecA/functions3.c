@@ -18,3 +18,27 @@ returns the smallest of the three values passed in
   Fn is Fn-1 + Fn-2
 */
 /*<return type> <function name> (<parameter list>); */
+
+double areaOfTriangle(double height, double base);
+int smallest(int a,int b,int c);
+int fibonacci(int n);
+
+double areaOfTriangle(double height, double base){
+  return 0.5*height*base;
+}
+int smallest(int a,int b,int c){
+  int small;  //stores smallest between a, b and c
+  if(a < b  && a < c){
+     small=a;
+  }
+  else{
+    if(b < c)
+       small=b;
+    else
+      small=c;
+  }
+  return small;
+}
+
+
+
