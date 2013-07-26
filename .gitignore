@@ -1,2 +1,7 @@
 a.out
+Debug
+Release
+*.suo
+*.sdf
+*.vcxproj.user
 
