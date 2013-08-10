@@ -1,0 +1,5 @@
+Samuel Adams|35|60|0.5
+John Capola|35|32|6
+XXX YY|35|12|7.56
+ZZZ W|35|24|0.35
+Hoop|35|9|4.3
